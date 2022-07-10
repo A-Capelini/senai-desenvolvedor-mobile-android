@@ -12,11 +12,15 @@
 
 * [UC9 - POO](https://github.com/A-Capelini/senai-desenvolvedor-mobile-android/tree/main/UC9-poo)
 
+* [UC10 - Banco de Dados em Aplicativos Mobile com Java](https://github.com/A-Capelini/senai-desenvolvedor-mobile-android/tree/main/UC10-banco-de-dados-em-app-mobile-com-java)
+
+* [UC11 - Codificação e Testes de Aplicativos Mobile Android](https://github.com/A-Capelini/senai-desenvolvedor-mobile-android/tree/main/UC9-poo)
+
   
 
 
 
-Repositório criado para o Curso de Fullstack ministrado pelo Senai.
+Repositório criado para o Curso de Desenvolvedor Mobile Android ministrado pelo Senai.
 
 
 
