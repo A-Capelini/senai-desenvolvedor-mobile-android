@@ -14,7 +14,7 @@
 
 * [UC10 - Banco de Dados em Aplicativos Mobile com Java](https://github.com/A-Capelini/senai-desenvolvedor-mobile-android/tree/main/UC10-banco-de-dados-em-app-mobile-com-java)
 
-* [UC11 - Codificação e Testes de Aplicativos Mobile Android](https://github.com/A-Capelini/senai-desenvolvedor-mobile-android/tree/main/UC9-poo)
+* [UC11 - Codificação e Testes de Aplicativos Mobile Android](https://github.com/A-Capelini/senai-desenvolvedor-mobile-android/tree/main/UC11_codifica%C3%A7%C3%A3o_e-teste_de_app_mobile_android)
 
   
 
