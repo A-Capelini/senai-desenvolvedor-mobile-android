@@ -8,19 +8,19 @@
 
 ### Exercícios Realizados:
 
-* [UC8 - Lógica de Programação](https://github.com/A-Capelini/senai-desenvolvedor-mobile-android/tree/main/UC8-l%C3%B3gica-de-program%C3%A7%C3%A3o)
+* [UC8 - Lógica de Programação](https://github.com/A-Capelini/senai-desenvolvedor-mobile-android/tree/main/UC8-l%C3%B3gica-de-program%C3%A7%C3%A3o).
 
-* [UC9 - POO](https://github.com/A-Capelini/senai-desenvolvedor-mobile-android/tree/main/UC9-poo)
+* [UC9 - POO](https://github.com/A-Capelini/senai-desenvolvedor-mobile-android/tree/main/UC9-poo).
 
-* [UC10 - Banco de Dados em Aplicativos Mobile com Java](https://github.com/A-Capelini/senai-desenvolvedor-mobile-android/tree/main/UC10-banco-de-dados-em-app-mobile-com-java)
+* [UC10 - Banco de Dados em Aplicativos Mobile com Java](https://github.com/A-Capelini/senai-desenvolvedor-mobile-android/tree/main/UC10-banco-de-dados-em-app-mobile-com-java).
 
-* [UC11 - Codificação e Testes de Aplicativos Mobile Android](https://github.com/A-Capelini/senai-desenvolvedor-mobile-android/tree/main/UC11_codifica%C3%A7%C3%A3o_e-teste_de_app_mobile_android)
+* [UC11 - Codificação e Testes de Aplicativos Mobile Android](https://github.com/A-Capelini/senai-desenvolvedor-mobile-android/tree/main/UC11_codifica%C3%A7%C3%A3o_e-teste_de_app_mobile_android).
 
   
 
 
 
-Repositório criado para o Curso de Desenvolvedor Mobile Android ministrado pelo Senai.
+Repositório criado para o Curso de Desenvolvedor Mobile Android ministrado pelo Senai São Paulo.
 
 
 
